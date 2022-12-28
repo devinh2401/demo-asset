@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style-type:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dfe6e9;
+}
+a{
+    color: black
+}
+th,tr,td{
+    text-align: center;
+}
